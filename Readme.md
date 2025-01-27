@@ -1,5 +1,7 @@
 # <div align="center">👋 Hi, Myself Yash!</div>
-
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBrNnpja2dtY2huZmkzMThlbTBmYjZmYzFobGQ4cTJxNHFpZ3lreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif" width="600px"/>
+</div>
 ```java
 public class WhoAmI {
     String user = "Yash Balyan";
